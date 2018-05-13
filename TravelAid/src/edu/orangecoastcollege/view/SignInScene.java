@@ -54,20 +54,6 @@ public class SignInScene {
 
 	}
 
-//	private static Controller controller = Controller.getInstance();
-//
-//	@FXML
-//	private TextField emailAddressTF;
-//	@FXML
-//	private TextField passwordTF;
-//	@FXML
-//	private Label emailErrorLabel;
-//	@FXML
-//	private Label passwordErrorLabel;
-//	@FXML
-//	private Label signInErrorLabel;
-//
-//
 //	@FXML
 //	public boolean signIn() {
 //	    // Let's read information from the user
