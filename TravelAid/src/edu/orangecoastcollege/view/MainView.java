@@ -9,8 +9,9 @@ public class MainView extends Application {
 	public void start(Stage primaryStage) throws Exception {		
 		// Set stage only needs to be called once for the view navigator
 		ViewNavigator.setStage(primaryStage);
+		System.out.println("Hello");
 
-		ViewNavigator.loadScene("Welcome to TravelAid", ViewNavigator.SIGN_IN_SCENE);
+		ViewNavigator.loadScene("Welcome To TravelAid", ViewNavigator.SIGN_IN_SCENE);
 	}
 	
 	public static void main(String[] args) {
